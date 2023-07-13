@@ -3,6 +3,7 @@
 
             --logo-height: 100px;
             --header-height:100px;
+            --menu-top-height:100px;
             --aside-width:225px;
             --footer-height:40px ;
 
@@ -57,3 +58,4 @@ main.content {
 footer.footer{
     grid-area: footer;
 }
+
